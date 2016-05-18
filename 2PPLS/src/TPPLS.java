@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Vector;
 
-
+//注释一下
 public class TPPLS {
 
 	float NeiborRandom = (float) 0.001;//邻居的变异概率
